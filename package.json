@@ -1,0 +1,11 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "description": "Testing out creating npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no tests specified\\\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
